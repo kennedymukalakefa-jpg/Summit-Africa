@@ -1,0 +1,1 @@
+function bookNow(){alert('Thank you for choosing Summit Africa! Booking enquiries are coming soon.');}
